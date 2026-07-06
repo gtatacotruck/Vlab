@@ -18,9 +18,9 @@ in Python. Featuring ultra-low latency processing, global hotkeys,
 real-time Text-to-Speech injection, an advanced song sequencer, and a 
 fully extensible Modding SDK.
 
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  [1] KEY FEATURES                                                            │
-└──────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│  [1] KEY FEATURES                                                   │
+└─────────────────────────────────────────────────────────────────────┘
  [+] REAL-TIME DSP ENGINE: Vectorized high-fidelity effects including Phase 
      Vocoder Pitch Shifting, Schroeder Reverb, Lookahead Compression, 
      3-Band EQ, Flanger/Chorus, Delay, and Harmonic Exciters.
@@ -38,9 +38,9 @@ fully extensible Modding SDK.
      hot-swappable user mod slots via the built-in SDK.
 
 
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  [2] PREREQUISITES & INSTALLATION                                            │
-└──────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│  [2] PREREQUISITES & INSTALLATION                                   │
+└─────────────────────────────────────────────────────────────────────┘
  V LAB leverages specialized libraries for low-latency audio capture and UI.
 
  > STEP 1: INSTALL DEPENDENCIES
@@ -59,9 +59,9 @@ fully extensible Modding SDK.
    $ python main.py
 
 
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  [3] ROUTING AUDIO VIA VIRTUAL CABLE (Discord, OBS, Games)                   │
-└──────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│  [3] ROUTING AUDIO VIA VIRTUAL CABLE (Discord, OBS, Games)          │
+└─────────────────────────────────────────────────────────────────────┘
  To pipe your processed voice and soundboard into communication apps, 
  you MUST use a Virtual Audio Cable (VAC).
 
@@ -106,9 +106,9 @@ fully extensible Modding SDK.
    audio gating and effects!
 
 
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  [4] MODDING & THEME SDK                                                     │
-└──────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│  [4] MODDING & THEME SDK                                            │
+└─────────────────────────────────────────────────────────────────────┘
  V LAB monitors specific folders for runtime loading (no restart required):
  
    > mods/themes/basic/     --> Drop .json color configurations here.
@@ -118,9 +118,9 @@ fully extensible Modding SDK.
    Check 'mods/SDK_README.md' for full syntax, hooks, and examples.
 
 
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  [5] SUPPORT & COMMUNITY                                                     │
-└──────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│  [5] SUPPORT & COMMUNITY                                            │
+└─────────────────────────────────────────────────────────────────────┘
  Buffer underruns? DSP math making your head spin? Need custom scripts?
  Join the development lab:
 
